@@ -1,0 +1,13 @@
+name: denopro
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.9
+  - r-base=4.0.5
+  - bioconductor-pga
+  - r-data.table=1.12.8
+  - trinity=2.8.5
+  - pysimpleguiqt
+prefix: /home/avi/miniconda3/envs/denopro
